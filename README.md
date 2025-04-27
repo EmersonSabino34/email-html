@@ -1,5 +1,5 @@
 #### Projeto HTML
 
-* HTML
-* CSS3
+* HTML 5
+* CSS 3
 * Javascript
