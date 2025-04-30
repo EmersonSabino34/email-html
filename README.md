@@ -2,4 +2,4 @@
 
 * HTML 5
 * CSS 3
-* Javascript
+* Javascript 0
