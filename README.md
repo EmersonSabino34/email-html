@@ -1,4 +1,4 @@
-# 🍽️ Monteiro Grill
+# 🍽️ Restaurante Brasileiro
 
 Site institucional moderno para o **Monteiro Grill**, desenvolvido para apresentar o cardápio, especialidades e facilitar **reservas online**, com foco em **experiência do usuário**, **design responsivo** e **apresentação gastronômica profissional**.
 
